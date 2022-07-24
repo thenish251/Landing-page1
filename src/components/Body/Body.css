@@ -1,0 +1,101 @@
+
+.main-container{
+    background-color: rgb(226, 215, 166);
+    width: 100%;
+    margin-bottom: 50px;
+}
+.container-title{
+    /* text-align: center; */
+    /* padding-left: 15rem; */
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 35px;
+    /* margin-left: 13%; */
+
+}
+.sub-title{
+    
+    /* padding: 2rem; */
+    padding-left : 50rem;
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: -30%;
+   
+}
+/* .s-para{
+    margin-left: 10px;
+} */
+.body{
+   display: flex;
+}
+/* .body-right .sub-title {
+    margin-left: -25px;
+} */
+.alogo{
+background:rgb(226, 215, 166); 
+width: 700px;
+height: 800px;
+margin-top: 20px;
+
+}
+
+.blogo{
+width: 750px;
+height: 500px;
+padding-right: 10rem;
+margin-left: 30%; 
+
+}
+
+.right-decription{
+margin-left: 30%;
+    
+}
+
+.body-center-description{
+    padding-left: 15rem;
+   font-weight: 700;
+    font-size: 20px;
+}
+
+.clogo{
+width: 70%;
+height: 70%;
+padding-left: 20rem;
+}
+.text{
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.footer-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 20px;
+
+
+}
+.footer-text{
+   padding: 3rem;
+   padding-left: 10rem;
+    font-weight: 500;
+    font-size: 20px;
+
+}
+.footer-icon{
+    font-weight: bolder;
+    font-size: larger;
+    color: white;
+}
+
+.footer-body{
+    background:rgb(231, 13, 6); 
+    display: flex;
+    width: 100%;
+    height: 130px;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    
+}
